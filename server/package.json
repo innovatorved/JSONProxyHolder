@@ -1,0 +1,17 @@
+{
+	"name": "server",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "nodemon server.js"
+	},
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.17.2",
+		"node-fetch": "2"
+	},
+	"devD.32+ependencies": {
+		"nodemon": "^2.0.15"
+	}
+}
